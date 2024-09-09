@@ -2,7 +2,7 @@
 
 <h3>📚 Introdução</h3>
 
-<h4>Este projeto faz parte da disciplina <b>Projeto Integrador IV e V</b> da faculdade e tem como objetivo solucionar problemas ou melhorar os processos de uma empresa. </h4>
+<p>Este projeto faz parte da disciplina <b>Projeto Integrador IV e V</b> da faculdade e tem como objetivo solucionar problemas ou melhorar os processos de uma empresa. </p>
 
 <p><b>Resumo</b> sobre a empresa: A <b>Caxangá Auto Center</b> é uma oficina localizada na Avenida Joaquim Ribeiro, 349, zona oeste de Recife, Pernambuco.</p>
 <p>A loja oferece dois principais serviços:</p>
