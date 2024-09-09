@@ -27,7 +27,7 @@
 <li>📦 Controle de Estoque Automatizado: Garante que as peças estejam sempre disponíveis, eliminando erros humanos.</li>
 <li>📱 Monitoramento de Veículos em Tempo Real: Clientes poderão acompanhar o status dos seus veículos (em espera, em conserto ou finalizado) com atualizações automáticas.</li>
 </ul>
-  <h3>🖼️ Diagrama UML</h3>
+  <h3>🖼️ <b>Diagrama UML</b></h3>
 Abaixo está um diagrama UML para ilustrar o funcionamento da aplicação:
 
 ![Diagrama Lucidchart](https://github.com/IgorDanielS/Caxanga-Auto-Center/blob/main/UML.png)
