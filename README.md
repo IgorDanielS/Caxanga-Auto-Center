@@ -23,9 +23,9 @@
 <h3>  💡 Solução Proposta: Sistema ERP</h3>
 <p>Para resolver esses desafios, estamos desenvolvendo um sistema ERP (Enterprise Resource Planning) que modernizará os processos da Caxangá Auto Center. As funcionalidades incluem:</p>
 <ul>
-<li>💻 Agendamento Centralizado: Simplifica o agendamento de serviços, permitindo que clientes marquem pelo site, aplicativo ou presencialmente.</li>
-<li>📦 Controle de Estoque Automatizado: Garante que as peças estejam sempre disponíveis, eliminando erros humanos.</li>
-<li>📱 Monitoramento de Veículos em Tempo Real: Clientes poderão acompanhar o status dos seus veículos (em espera, em conserto ou finalizado) com atualizações automáticas.</li>
+<li>💻 <b>Agendamento Centralizado</b>: Simplifica o agendamento de serviços, permitindo que clientes marquem pelo site, aplicativo ou presencialmente.</li>
+<li>📦 <b>Controle de Estoque Automatizado</b>: Garante que as peças estejam sempre disponíveis, eliminando erros humanos.</li>
+<li>📱<b> Monitoramento de Veículos em Tempo Real</b>: Clientes poderão acompanhar o status dos seus veículos (em espera, em conserto ou finalizado) com atualizações automáticas.</li>
 </ul>
   <h3>🖼️ <b>Diagrama UML</b></h3>
 Abaixo está um diagrama UML para ilustrar o funcionamento da aplicação:
