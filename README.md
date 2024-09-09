@@ -23,6 +23,8 @@
 <li>Processos manuais que geram <b>ineficiências e erros</b> no gerenciamento das operações e no atendimento ao cliente.</li>
 </ul>
 
+<h1></h1>
+
 <h3>  💡 Solução Proposta: Sistema ERP</h3>
 <p>Para resolver esses desafios, estamos desenvolvendo um sistema ERP (Enterprise Resource Planning) que modernizará os processos da Caxangá Auto Center. As funcionalidades incluem:</p>
 <ul>
@@ -30,6 +32,9 @@
 <li>📦 <b>Controle de Estoque Automatizado</b>: Garante que as peças estejam sempre disponíveis, eliminando erros humanos.</li>
 <li>📱<b> Monitoramento de Veículos em Tempo Real</b>: Clientes poderão acompanhar o status dos seus veículos (em espera, em conserto ou finalizado) com atualizações automáticas.</li>
 </ul>
+
+<h1></h1>
+
   <h3>🖼️ <b>Diagrama UML</b></h3>
 Abaixo está um diagrama UML para ilustrar o funcionamento da aplicação:
 
