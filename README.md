@@ -29,3 +29,5 @@
 </ul>
   <h3>🖼️ Diagrama UML</h3>
 Abaixo está um diagrama UML para ilustrar o funcionamento da aplicação:
+
+![Diagrama Lucidchart](https://github.com/IgorDanielS/Caxanga-Auto-Center/blob/main/UML.png)
