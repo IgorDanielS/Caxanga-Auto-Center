@@ -10,6 +10,9 @@
 <li><b>Venda de Peças</b>: O cliente verifica a disponibilidade da peça na loja. Se disponível, a compra é finalizada na hora. Caso contrário, a equipe entra em contato com os fornecedores para realizar o pedido.</li>
 <li><b>Conserto e Revisão</b>: O atendimento pode ser agendado por WhatsApp, e-mail ou pessoalmente. A oficina realiza uma avaliação inicial e utiliza um dispositivo para uma revisão detalhada. Caso sejam identificados problemas, o cliente recebe um orçamento e pode solicitar o conserto.</li>
 </ol>
+
+<h1></h1>
+
 <h3>⚙️ Problemas Identificados</h3>
 <p>Atualmente, a Caxangá Auto Center opera de maneira bastante "analógica", o que gera desafios, como:</p>
 
