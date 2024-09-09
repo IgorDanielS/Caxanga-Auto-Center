@@ -2,22 +2,22 @@
 
 <h3>📚 Introdução</h3>
 
-<h4>Este projeto faz parte da disciplina Projeto Integrador IV e V da faculdade e tem como objetivo solucionar problemas ou melhorar os processos de uma empresa. </h4>
+<h4>Este projeto faz parte da disciplina <b>Projeto Integrador IV e V</b> da faculdade e tem como objetivo solucionar problemas ou melhorar os processos de uma empresa. </h4>
 
-<p>Resumo sobre a empresa: A Caxangá Auto Center é uma oficina localizada na Avenida Joaquim Ribeiro, 349, zona oeste de Recife, Pernambuco.</p>
+<p><b>Resumo</b> sobre a empresa: A <b>Caxangá Auto Center</b> é uma oficina localizada na Avenida Joaquim Ribeiro, 349, zona oeste de Recife, Pernambuco.</p>
 <p>A loja oferece dois principais serviços:</p>
 <ol>
-<li>Venda de Peças: O cliente verifica a disponibilidade da peça na loja. Se disponível, a compra é finalizada na hora. Caso contrário, a equipe entra em contato com os fornecedores para realizar o pedido.</li>
-<li>Conserto e Revisão: O atendimento pode ser agendado por WhatsApp, e-mail ou pessoalmente. A oficina realiza uma avaliação inicial e utiliza um dispositivo para uma revisão detalhada. Caso sejam identificados problemas, o cliente recebe um orçamento e pode solicitar o conserto.</li>
+<li><b>Venda de Peças</b>: O cliente verifica a disponibilidade da peça na loja. Se disponível, a compra é finalizada na hora. Caso contrário, a equipe entra em contato com os fornecedores para realizar o pedido.</li>
+<li><b>Conserto e Revisão</b>: O atendimento pode ser agendado por WhatsApp, e-mail ou pessoalmente. A oficina realiza uma avaliação inicial e utiliza um dispositivo para uma revisão detalhada. Caso sejam identificados problemas, o cliente recebe um orçamento e pode solicitar o conserto.</li>
 </ol>
 <h3>⚙️ Problemas Identificados</h3>
 <p>Atualmente, a Caxangá Auto Center opera de maneira bastante "analógica", o que gera desafios, como:</p>
 
 <ul>
-<li>Agendamentos manuais via WhatsApp.</li>
-<li>Falta de automação no controle de estoque.</li>
-<li>Ausência de um site funcional, com apenas uma landing page básica.</li>
-<li>Processos manuais que geram ineficiências e erros no gerenciamento das operações e no atendimento ao cliente.</li>
+<li><b>Agendamentos manuais</b> via WhatsApp.</li>
+<li><b>Falta de automação no controle de estoque</b>.</li>
+<li><b>Ausência de um site funcional</b>, com apenas uma landing page básica.</li>
+<li>Processos manuais que geram <b>ineficiências e erros</b> no gerenciamento das operações e no atendimento ao cliente.</li>
 </ul>
 
 <h3>  💡 Solução Proposta: Sistema ERP</h3>
